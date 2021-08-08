@@ -1,0 +1,11 @@
+#root {
+    text-align: center;
+    padding: 10px;
+}
+.calculator-body {
+    display: inline-block;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 20px;
+    background: darkgray;
+}

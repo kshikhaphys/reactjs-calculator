@@ -1,0 +1,10 @@
+.screen {
+    width: calc(100% - 40px);
+    padding: 5px 20px;
+    height: 30px;
+    line-height: 30px;
+    text-align: end;
+    vertical-align: middle;
+    background-color: aquamarine;
+}
+

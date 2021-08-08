@@ -1,0 +1,16 @@
+.calculator-button {
+    margin: 4px 8px !important;
+    width: 80px;
+    padding: 0;
+    min-width: 60px !important;
+    background-color: burlywood !important;
+}
+.operation {
+    margin: 4px 5px !important;
+    padding: 0;
+    width: 60px;
+    background-color: rosybrown !important;
+}
+.keypad-operation {
+    background-color: rosybrown !important;
+}
